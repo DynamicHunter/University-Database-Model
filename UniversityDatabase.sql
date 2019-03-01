@@ -1,7 +1,5 @@
 -- Hunter Davis
--- Yuanshun Dong
--- Yosselin Velasco
--- HW 2 Group 4
+-- CECS 323: Databases
 
 -- DROP: child then parent
 
